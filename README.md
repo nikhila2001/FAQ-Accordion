@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/public/assets/images/Screenshot FAQ accordion.png)
+![](public/assets/images/Screenshot FAQ accordion.png)
 
 
 ### Links
